@@ -3,4 +3,5 @@ class Dog
     @name=n 
     @breed=b 
   end
+end
   
